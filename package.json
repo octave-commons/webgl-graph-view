@@ -1,5 +1,5 @@
 {
-  "name": "@open-hax/webgl-graph-view",
+  "name": "@octave-commons/webgl-graph-view",
   "version": "0.1.0",
   "private": false,
   "type": "module",
